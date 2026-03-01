@@ -77,7 +77,7 @@ const Hero = () => {
                 <div className="absolute inset-0 bg-black z-10" />
 
                 <img
-                    src="/src/assets/bugatti.png"
+                    src="/public/bugatti.png"
                     alt="Car"
                     className="car-image relative z-20 mt-14 w-[950px] h-[650px] will-change-transform drop-shadow-2xl"
                 />
